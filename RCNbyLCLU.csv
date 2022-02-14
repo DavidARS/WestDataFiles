@@ -1,0 +1,15 @@
+ORDER,SAND,LOAM,SCL,CLAY,LCLU
+1,49,69,79,84,Turf
+2,36,60,73,79,Woods
+3,100,100,100,100,OpenWater
+4,39,61,74,80,Pasture
+5,67,78,85,89,RowCrops
+6,77,86,91,94,Fallow
+7,81,88,91,93,Industrial
+8,89,92,94,95,Commercial
+9,83,89,92,93,Paved
+10,77,85,90,92,EigthAcre
+11,61,75,83,87,QuarterAcre
+12,57,72,81,86,ThirdAcre
+13,54,70,80,85,HalfAcre
+14,51,68,79,84,Acre

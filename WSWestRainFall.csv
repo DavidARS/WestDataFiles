@@ -1,0 +1,1465 @@
+SC,RC,RN,year,rainfall
+4,8,Arizona Central South,2020,223
+4,8,Arizona Central South,2021,192
+4,8,Arizona Central South,2022,99
+4,8,Arizona Central South,2023,129
+4,8,Arizona Central South,2024,280
+4,8,Arizona Central South,2025,95
+4,8,Arizona Central South,2026,186
+4,8,Arizona Central South,2027,114
+4,8,Arizona Central South,2028,141
+4,8,Arizona Central South,2029,121
+4,8,Arizona Central South,2030,68
+4,8,Arizona Central South,2031,39
+4,8,Arizona Central South,2032,197
+4,8,Arizona Central South,2033,164
+4,8,Arizona Central South,2034,100
+4,8,Arizona Central South,2035,196
+4,8,Arizona Central South,2036,247
+4,8,Arizona Central South,2037,176
+4,8,Arizona Central South,2038,104
+4,8,Arizona Central South,2039,101
+4,8,Arizona Central South,2040,203
+4,8,Arizona Central South,2041,126
+4,8,Arizona Central South,2042,121
+4,8,Arizona Central South,2043,437
+4,8,Arizona Central South,2044,225
+4,8,Arizona Central South,2045,158
+4,8,Arizona Central South,2046,152
+4,8,Arizona Central South,2047,86
+4,8,Arizona Central South,2048,180
+4,8,Arizona Central South,2049,201
+4,8,Arizona Central South,2050,164
+4,8,Arizona Central South,2051,243
+4,8,Arizona Central South,2052,120
+4,8,Arizona Central South,2053,204
+4,8,Arizona Central South,2054,116
+4,8,Arizona Central South,2055,147
+4,8,Arizona Central South,2056,238
+4,8,Arizona Central South,2057,88
+4,8,Arizona Central South,2058,469
+4,8,Arizona Central South,2059,128
+4,8,Arizona Central South,2060,241
+4,8,Arizona Central South,2061,280
+4,8,Arizona Central South,2062,200
+4,8,Arizona Central South,2063,278
+4,8,Arizona Central South,2064,158
+4,8,Arizona Central South,2065,244
+4,8,Arizona Central South,2066,100
+4,8,Arizona Central South,2067,96
+4,8,Arizona Central South,2068,184
+4,8,Arizona Central South,2069,42
+4,8,Arizona Central South,2070,219
+4,8,Arizona Central South,2071,44
+4,8,Arizona Central South,2072,214
+4,8,Arizona Central South,2073,125
+4,8,Arizona Central South,2074,114
+4,8,Arizona Central South,2075,190
+4,8,Arizona Central South,2076,80
+4,8,Arizona Central South,2077,463
+4,8,Arizona Central South,2078,187
+4,8,Arizona Central South,2079,76
+4,8,Arizona Central South,2080,437
+4,9,Arizona West,2020,209
+4,9,Arizona West,2021,177
+4,9,Arizona West,2022,85
+4,9,Arizona West,2023,111
+4,9,Arizona West,2024,270
+4,9,Arizona West,2025,76
+4,9,Arizona West,2026,152
+4,9,Arizona West,2027,91
+4,9,Arizona West,2028,102
+4,9,Arizona West,2029,144
+4,9,Arizona West,2030,88
+4,9,Arizona West,2031,43
+4,9,Arizona West,2032,205
+4,9,Arizona West,2033,148
+4,9,Arizona West,2034,81
+4,9,Arizona West,2035,180
+4,9,Arizona West,2036,217
+4,9,Arizona West,2037,170
+4,9,Arizona West,2038,100
+4,9,Arizona West,2039,71
+4,9,Arizona West,2040,200
+4,9,Arizona West,2041,124
+4,9,Arizona West,2042,59
+4,9,Arizona West,2043,402
+4,9,Arizona West,2044,178
+4,9,Arizona West,2045,164
+4,9,Arizona West,2046,128
+4,9,Arizona West,2047,86
+4,9,Arizona West,2048,146
+4,9,Arizona West,2049,191
+4,9,Arizona West,2050,146
+4,9,Arizona West,2051,243
+4,9,Arizona West,2052,132
+4,9,Arizona West,2053,172
+4,9,Arizona West,2054,75
+4,9,Arizona West,2055,134
+4,9,Arizona West,2056,191
+4,9,Arizona West,2057,81
+4,9,Arizona West,2058,435
+4,9,Arizona West,2059,128
+4,9,Arizona West,2060,219
+4,9,Arizona West,2061,219
+4,9,Arizona West,2062,183
+4,9,Arizona West,2063,250
+4,9,Arizona West,2064,140
+4,9,Arizona West,2065,240
+4,9,Arizona West,2066,74
+4,9,Arizona West,2067,87
+4,9,Arizona West,2068,165
+4,9,Arizona West,2069,57
+4,9,Arizona West,2070,196
+4,9,Arizona West,2071,57
+4,9,Arizona West,2072,231
+4,9,Arizona West,2073,145
+4,9,Arizona West,2074,93
+4,9,Arizona West,2075,187
+4,9,Arizona West,2076,88
+4,9,Arizona West,2077,425
+4,9,Arizona West,2078,164
+4,9,Arizona West,2079,94
+4,9,Arizona West,2080,402
+4,10,Arizona North,2020,202
+4,10,Arizona North,2021,178
+4,10,Arizona North,2022,99
+4,10,Arizona North,2023,90
+4,10,Arizona North,2024,292
+4,10,Arizona North,2025,98
+4,10,Arizona North,2026,178
+4,10,Arizona North,2027,81
+4,10,Arizona North,2028,147
+4,10,Arizona North,2029,138
+4,10,Arizona North,2030,114
+4,10,Arizona North,2031,26
+4,10,Arizona North,2032,208
+4,10,Arizona North,2033,151
+4,10,Arizona North,2034,124
+4,10,Arizona North,2035,189
+4,10,Arizona North,2036,198
+4,10,Arizona North,2037,176
+4,10,Arizona North,2038,71
+4,10,Arizona North,2039,80
+4,10,Arizona North,2040,177
+4,10,Arizona North,2041,106
+4,10,Arizona North,2042,82
+4,10,Arizona North,2043,382
+4,10,Arizona North,2044,167
+4,10,Arizona North,2045,190
+4,10,Arizona North,2046,121
+4,10,Arizona North,2047,110
+4,10,Arizona North,2048,149
+4,10,Arizona North,2049,195
+4,10,Arizona North,2050,150
+4,10,Arizona North,2051,262
+4,10,Arizona North,2052,117
+4,10,Arizona North,2053,191
+4,10,Arizona North,2054,78
+4,10,Arizona North,2055,159
+4,10,Arizona North,2056,219
+4,10,Arizona North,2057,120
+4,10,Arizona North,2058,447
+4,10,Arizona North,2059,134
+4,10,Arizona North,2060,223
+4,10,Arizona North,2061,245
+4,10,Arizona North,2062,174
+4,10,Arizona North,2063,247
+4,10,Arizona North,2064,138
+4,10,Arizona North,2065,234
+4,10,Arizona North,2066,94
+4,10,Arizona North,2067,96
+4,10,Arizona North,2068,170
+4,10,Arizona North,2069,54
+4,10,Arizona North,2070,187
+4,10,Arizona North,2071,54
+4,10,Arizona North,2072,221
+4,10,Arizona North,2073,133
+4,10,Arizona North,2074,85
+4,10,Arizona North,2075,175
+4,10,Arizona North,2076,66
+4,10,Arizona North,2077,424
+4,10,Arizona North,2078,175
+4,10,Arizona North,2079,113
+4,10,Arizona North,2080,382
+4,23,Arizona Southeast,2020,0
+4,23,Arizona Southeast,2021,0
+4,23,Arizona Southeast,2022,0
+4,23,Arizona Southeast,2023,0
+4,23,Arizona Southeast,2024,0
+4,23,Arizona Southeast,2025,0
+4,23,Arizona Southeast,2026,0
+4,23,Arizona Southeast,2027,0
+4,23,Arizona Southeast,2028,0
+4,23,Arizona Southeast,2029,0
+4,23,Arizona Southeast,2030,0
+4,23,Arizona Southeast,2031,0
+4,23,Arizona Southeast,2032,0
+4,23,Arizona Southeast,2033,0
+4,23,Arizona Southeast,2034,0
+4,23,Arizona Southeast,2035,0
+4,23,Arizona Southeast,2036,0
+4,23,Arizona Southeast,2037,0
+4,23,Arizona Southeast,2038,0
+4,23,Arizona Southeast,2039,0
+4,23,Arizona Southeast,2040,0
+4,23,Arizona Southeast,2041,0
+4,23,Arizona Southeast,2042,0
+4,23,Arizona Southeast,2043,0
+4,23,Arizona Southeast,2044,0
+4,23,Arizona Southeast,2045,0
+4,23,Arizona Southeast,2046,0
+4,23,Arizona Southeast,2047,0
+4,23,Arizona Southeast,2048,0
+4,23,Arizona Southeast,2049,0
+4,23,Arizona Southeast,2050,0
+4,23,Arizona Southeast,2051,0
+4,23,Arizona Southeast,2052,0
+4,23,Arizona Southeast,2053,0
+4,23,Arizona Southeast,2054,0
+4,23,Arizona Southeast,2055,0
+4,23,Arizona Southeast,2056,0
+4,23,Arizona Southeast,2057,0
+4,23,Arizona Southeast,2058,0
+4,23,Arizona Southeast,2059,0
+4,23,Arizona Southeast,2060,0
+4,23,Arizona Southeast,2061,0
+4,23,Arizona Southeast,2062,0
+4,23,Arizona Southeast,2063,0
+4,23,Arizona Southeast,2064,0
+4,23,Arizona Southeast,2065,0
+4,23,Arizona Southeast,2066,0
+4,23,Arizona Southeast,2067,0
+4,23,Arizona Southeast,2068,0
+4,23,Arizona Southeast,2069,0
+4,23,Arizona Southeast,2070,0
+4,23,Arizona Southeast,2071,0
+4,23,Arizona Southeast,2072,0
+4,23,Arizona Southeast,2073,0
+4,23,Arizona Southeast,2074,0
+4,23,Arizona Southeast,2075,0
+4,23,Arizona Southeast,2076,0
+4,23,Arizona Southeast,2077,0
+4,23,Arizona Southeast,2078,0
+4,23,Arizona Southeast,2079,0
+4,23,Arizona Southeast,2080,0
+4,24,Arizona Central North,2020,214
+4,24,Arizona Central North,2021,183
+4,24,Arizona Central North,2022,61
+4,24,Arizona Central North,2023,121
+4,24,Arizona Central North,2024,280
+4,24,Arizona Central North,2025,87
+4,24,Arizona Central North,2026,196
+4,24,Arizona Central North,2027,101
+4,24,Arizona Central North,2028,148
+4,24,Arizona Central North,2029,149
+4,24,Arizona Central North,2030,87
+4,24,Arizona Central North,2031,24
+4,24,Arizona Central North,2032,193
+4,24,Arizona Central North,2033,155
+4,24,Arizona Central North,2034,108
+4,24,Arizona Central North,2035,192
+4,24,Arizona Central North,2036,213
+4,24,Arizona Central North,2037,169
+4,24,Arizona Central North,2038,84
+4,24,Arizona Central North,2039,73
+4,24,Arizona Central North,2040,199
+4,24,Arizona Central North,2041,129
+4,24,Arizona Central North,2042,66
+4,24,Arizona Central North,2043,401
+4,24,Arizona Central North,2044,167
+4,24,Arizona Central North,2045,163
+4,24,Arizona Central North,2046,118
+4,24,Arizona Central North,2047,93
+4,24,Arizona Central North,2048,142
+4,24,Arizona Central North,2049,204
+4,24,Arizona Central North,2050,149
+4,24,Arizona Central North,2051,256
+4,24,Arizona Central North,2052,95
+4,24,Arizona Central North,2053,192
+4,24,Arizona Central North,2054,87
+4,24,Arizona Central North,2055,166
+4,24,Arizona Central North,2056,219
+4,24,Arizona Central North,2057,118
+4,24,Arizona Central North,2058,435
+4,24,Arizona Central North,2059,123
+4,24,Arizona Central North,2060,251
+4,24,Arizona Central North,2061,266
+4,24,Arizona Central North,2062,183
+4,24,Arizona Central North,2063,263
+4,24,Arizona Central North,2064,138
+4,24,Arizona Central North,2065,251
+4,24,Arizona Central North,2066,88
+4,24,Arizona Central North,2067,117
+4,24,Arizona Central North,2068,193
+4,24,Arizona Central North,2069,42
+4,24,Arizona Central North,2070,192
+4,24,Arizona Central North,2071,48
+4,24,Arizona Central North,2072,216
+4,24,Arizona Central North,2073,143
+4,24,Arizona Central North,2074,99
+4,24,Arizona Central North,2075,182
+4,24,Arizona Central North,2076,94
+4,24,Arizona Central North,2077,456
+4,24,Arizona Central North,2078,201
+4,24,Arizona Central North,2079,102
+4,24,Arizona Central North,2080,401
+6,1,California Southwest,2020,179
+6,1,California Southwest,2021,168
+6,1,California Southwest,2022,102
+6,1,California Southwest,2023,96
+6,1,California Southwest,2024,273
+6,1,California Southwest,2025,67
+6,1,California Southwest,2026,174
+6,1,California Southwest,2027,71
+6,1,California Southwest,2028,159
+6,1,California Southwest,2029,114
+6,1,California Southwest,2030,70
+6,1,California Southwest,2031,30
+6,1,California Southwest,2032,205
+6,1,California Southwest,2033,116
+6,1,California Southwest,2034,103
+6,1,California Southwest,2035,183
+6,1,California Southwest,2036,200
+6,1,California Southwest,2037,178
+6,1,California Southwest,2038,79
+6,1,California Southwest,2039,83
+6,1,California Southwest,2040,140
+6,1,California Southwest,2041,112
+6,1,California Southwest,2042,82
+6,1,California Southwest,2043,360
+6,1,California Southwest,2044,164
+6,1,California Southwest,2045,160
+6,1,California Southwest,2046,150
+6,1,California Southwest,2047,60
+6,1,California Southwest,2048,141
+6,1,California Southwest,2049,175
+6,1,California Southwest,2050,146
+6,1,California Southwest,2051,210
+6,1,California Southwest,2052,117
+6,1,California Southwest,2053,134
+6,1,California Southwest,2054,115
+6,1,California Southwest,2055,154
+6,1,California Southwest,2056,206
+6,1,California Southwest,2057,93
+6,1,California Southwest,2058,420
+6,1,California Southwest,2059,100
+6,1,California Southwest,2060,219
+6,1,California Southwest,2061,237
+6,1,California Southwest,2062,174
+6,1,California Southwest,2063,233
+6,1,California Southwest,2064,137
+6,1,California Southwest,2065,229
+6,1,California Southwest,2066,113
+6,1,California Southwest,2067,51
+6,1,California Southwest,2068,166
+6,1,California Southwest,2069,66
+6,1,California Southwest,2070,210
+6,1,California Southwest,2071,89
+6,1,California Southwest,2072,197
+6,1,California Southwest,2073,109
+6,1,California Southwest,2074,82
+6,1,California Southwest,2075,203
+6,1,California Southwest,2076,94
+6,1,California Southwest,2077,391
+6,1,California Southwest,2078,197
+6,1,California Southwest,2079,115
+6,1,California Southwest,2080,360
+6,2,California Southeast,2020,200
+6,2,California Southeast,2021,179
+6,2,California Southeast,2022,94
+6,2,California Southeast,2023,112
+6,2,California Southeast,2024,260
+6,2,California Southeast,2025,97
+6,2,California Southeast,2026,193
+6,2,California Southeast,2027,99
+6,2,California Southeast,2028,115
+6,2,California Southeast,2029,130
+6,2,California Southeast,2030,78
+6,2,California Southeast,2031,43
+6,2,California Southeast,2032,202
+6,2,California Southeast,2033,145
+6,2,California Southeast,2034,83
+6,2,California Southeast,2035,166
+6,2,California Southeast,2036,188
+6,2,California Southeast,2037,166
+6,2,California Southeast,2038,60
+6,2,California Southeast,2039,80
+6,2,California Southeast,2040,154
+6,2,California Southeast,2041,140
+6,2,California Southeast,2042,84
+6,2,California Southeast,2043,337
+6,2,California Southeast,2044,151
+6,2,California Southeast,2045,154
+6,2,California Southeast,2046,103
+6,2,California Southeast,2047,57
+6,2,California Southeast,2048,156
+6,2,California Southeast,2049,211
+6,2,California Southeast,2050,131
+6,2,California Southeast,2051,230
+6,2,California Southeast,2052,100
+6,2,California Southeast,2053,160
+6,2,California Southeast,2054,77
+6,2,California Southeast,2055,139
+6,2,California Southeast,2056,178
+6,2,California Southeast,2057,78
+6,2,California Southeast,2058,406
+6,2,California Southeast,2059,118
+6,2,California Southeast,2060,216
+6,2,California Southeast,2061,245
+6,2,California Southeast,2062,168
+6,2,California Southeast,2063,225
+6,2,California Southeast,2064,148
+6,2,California Southeast,2065,219
+6,2,California Southeast,2066,97
+6,2,California Southeast,2067,69
+6,2,California Southeast,2068,160
+6,2,California Southeast,2069,51
+6,2,California Southeast,2070,189
+6,2,California Southeast,2071,72
+6,2,California Southeast,2072,207
+6,2,California Southeast,2073,141
+6,2,California Southeast,2074,62
+6,2,California Southeast,2075,174
+6,2,California Southeast,2076,76
+6,2,California Southeast,2077,396
+6,2,California Southeast,2078,181
+6,2,California Southeast,2079,93
+6,2,California Southeast,2080,337
+6,4,California North,2020,238
+6,4,California North,2021,205
+6,4,California North,2022,75
+6,4,California North,2023,112
+6,4,California North,2024,341
+6,4,California North,2025,96
+6,4,California North,2026,214
+6,4,California North,2027,98
+6,4,California North,2028,151
+6,4,California North,2029,167
+6,4,California North,2030,108
+6,4,California North,2031,73
+6,4,California North,2032,235
+6,4,California North,2033,166
+6,4,California North,2034,131
+6,4,California North,2035,191
+6,4,California North,2036,249
+6,4,California North,2037,203
+6,4,California North,2038,112
+6,4,California North,2039,80
+6,4,California North,2040,225
+6,4,California North,2041,141
+6,4,California North,2042,100
+6,4,California North,2043,443
+6,4,California North,2044,191
+6,4,California North,2045,177
+6,4,California North,2046,139
+6,4,California North,2047,89
+6,4,California North,2048,191
+6,4,California North,2049,239
+6,4,California North,2050,181
+6,4,California North,2051,297
+6,4,California North,2052,139
+6,4,California North,2053,193
+6,4,California North,2054,122
+6,4,California North,2055,194
+6,4,California North,2056,244
+6,4,California North,2057,143
+6,4,California North,2058,476
+6,4,California North,2059,144
+6,4,California North,2060,267
+6,4,California North,2061,272
+6,4,California North,2062,164
+6,4,California North,2063,309
+6,4,California North,2064,164
+6,4,California North,2065,261
+6,4,California North,2066,116
+6,4,California North,2067,75
+6,4,California North,2068,193
+6,4,California North,2069,30
+6,4,California North,2070,250
+6,4,California North,2071,88
+6,4,California North,2072,259
+6,4,California North,2073,142
+6,4,California North,2074,103
+6,4,California North,2075,189
+6,4,California North,2076,131
+6,4,California North,2077,497
+6,4,California North,2078,237
+6,4,California North,2079,114
+6,4,California North,2080,443
+8,17,Colorado Front Range,2020,216
+8,17,Colorado Front Range,2021,162
+8,17,Colorado Front Range,2022,94
+8,17,Colorado Front Range,2023,120
+8,17,Colorado Front Range,2024,280
+8,17,Colorado Front Range,2025,107
+8,17,Colorado Front Range,2026,202
+8,17,Colorado Front Range,2027,88
+8,17,Colorado Front Range,2028,121
+8,17,Colorado Front Range,2029,111
+8,17,Colorado Front Range,2030,81
+8,17,Colorado Front Range,2031,64
+8,17,Colorado Front Range,2032,214
+8,17,Colorado Front Range,2033,166
+8,17,Colorado Front Range,2034,89
+8,17,Colorado Front Range,2035,178
+8,17,Colorado Front Range,2036,216
+8,17,Colorado Front Range,2037,167
+8,17,Colorado Front Range,2038,81
+8,17,Colorado Front Range,2039,71
+8,17,Colorado Front Range,2040,186
+8,17,Colorado Front Range,2041,110
+8,17,Colorado Front Range,2042,80
+8,17,Colorado Front Range,2043,402
+8,17,Colorado Front Range,2044,132
+8,17,Colorado Front Range,2045,151
+8,17,Colorado Front Range,2046,138
+8,17,Colorado Front Range,2047,92
+8,17,Colorado Front Range,2048,176
+8,17,Colorado Front Range,2049,184
+8,17,Colorado Front Range,2050,135
+8,17,Colorado Front Range,2051,225
+8,17,Colorado Front Range,2052,115
+8,17,Colorado Front Range,2053,195
+8,17,Colorado Front Range,2054,132
+8,17,Colorado Front Range,2055,144
+8,17,Colorado Front Range,2056,189
+8,17,Colorado Front Range,2057,114
+8,17,Colorado Front Range,2058,446
+8,17,Colorado Front Range,2059,103
+8,17,Colorado Front Range,2060,233
+8,17,Colorado Front Range,2061,238
+8,17,Colorado Front Range,2062,172
+8,17,Colorado Front Range,2063,254
+8,17,Colorado Front Range,2064,170
+8,17,Colorado Front Range,2065,240
+8,17,Colorado Front Range,2066,96
+8,17,Colorado Front Range,2067,96
+8,17,Colorado Front Range,2068,189
+8,17,Colorado Front Range,2069,53
+8,17,Colorado Front Range,2070,215
+8,17,Colorado Front Range,2071,65
+8,17,Colorado Front Range,2072,218
+8,17,Colorado Front Range,2073,128
+8,17,Colorado Front Range,2074,111
+8,17,Colorado Front Range,2075,187
+8,17,Colorado Front Range,2076,96
+8,17,Colorado Front Range,2077,426
+8,17,Colorado Front Range,2078,184
+8,17,Colorado Front Range,2079,89
+8,17,Colorado Front Range,2080,402
+8,18,Colorado In Basin,2020,168
+8,18,Colorado In Basin,2021,157
+8,18,Colorado In Basin,2022,51
+8,18,Colorado In Basin,2023,84
+8,18,Colorado In Basin,2024,282
+8,18,Colorado In Basin,2025,80
+8,18,Colorado In Basin,2026,169
+8,18,Colorado In Basin,2027,103
+8,18,Colorado In Basin,2028,119
+8,18,Colorado In Basin,2029,122
+8,18,Colorado In Basin,2030,74
+8,18,Colorado In Basin,2031,61
+8,18,Colorado In Basin,2032,207
+8,18,Colorado In Basin,2033,174
+8,18,Colorado In Basin,2034,118
+8,18,Colorado In Basin,2035,177
+8,18,Colorado In Basin,2036,229
+8,18,Colorado In Basin,2037,159
+8,18,Colorado In Basin,2038,75
+8,18,Colorado In Basin,2039,91
+8,18,Colorado In Basin,2040,191
+8,18,Colorado In Basin,2041,118
+8,18,Colorado In Basin,2042,40
+8,18,Colorado In Basin,2043,358
+8,18,Colorado In Basin,2044,165
+8,18,Colorado In Basin,2045,172
+8,18,Colorado In Basin,2046,112
+8,18,Colorado In Basin,2047,91
+8,18,Colorado In Basin,2048,156
+8,18,Colorado In Basin,2049,205
+8,18,Colorado In Basin,2050,136
+8,18,Colorado In Basin,2051,253
+8,18,Colorado In Basin,2052,123
+8,18,Colorado In Basin,2053,154
+8,18,Colorado In Basin,2054,86
+8,18,Colorado In Basin,2055,155
+8,18,Colorado In Basin,2056,245
+8,18,Colorado In Basin,2057,101
+8,18,Colorado In Basin,2058,426
+8,18,Colorado In Basin,2059,103
+8,18,Colorado In Basin,2060,205
+8,18,Colorado In Basin,2061,242
+8,18,Colorado In Basin,2062,165
+8,18,Colorado In Basin,2063,254
+8,18,Colorado In Basin,2064,130
+8,18,Colorado In Basin,2065,204
+8,18,Colorado In Basin,2066,97
+8,18,Colorado In Basin,2067,86
+8,18,Colorado In Basin,2068,182
+8,18,Colorado In Basin,2069,64
+8,18,Colorado In Basin,2070,211
+8,18,Colorado In Basin,2071,50
+8,18,Colorado In Basin,2072,197
+8,18,Colorado In Basin,2073,125
+8,18,Colorado In Basin,2074,111
+8,18,Colorado In Basin,2075,161
+8,18,Colorado In Basin,2076,95
+8,18,Colorado In Basin,2077,405
+8,18,Colorado In Basin,2078,195
+8,18,Colorado In Basin,2079,105
+8,18,Colorado In Basin,2080,358
+8,19,Colorado Not In Basin,2020,195
+8,19,Colorado Not In Basin,2021,145
+8,19,Colorado Not In Basin,2022,62
+8,19,Colorado Not In Basin,2023,87
+8,19,Colorado Not In Basin,2024,274
+8,19,Colorado Not In Basin,2025,75
+8,19,Colorado Not In Basin,2026,171
+8,19,Colorado Not In Basin,2027,58
+8,19,Colorado Not In Basin,2028,126
+8,19,Colorado Not In Basin,2029,122
+8,19,Colorado Not In Basin,2030,86
+8,19,Colorado Not In Basin,2031,39
+8,19,Colorado Not In Basin,2032,185
+8,19,Colorado Not In Basin,2033,142
+8,19,Colorado Not In Basin,2034,99
+8,19,Colorado Not In Basin,2035,159
+8,19,Colorado Not In Basin,2036,189
+8,19,Colorado Not In Basin,2037,156
+8,19,Colorado Not In Basin,2038,104
+8,19,Colorado Not In Basin,2039,76
+8,19,Colorado Not In Basin,2040,202
+8,19,Colorado Not In Basin,2041,117
+8,19,Colorado Not In Basin,2042,81
+8,19,Colorado Not In Basin,2043,352
+8,19,Colorado Not In Basin,2044,154
+8,19,Colorado Not In Basin,2045,150
+8,19,Colorado Not In Basin,2046,126
+8,19,Colorado Not In Basin,2047,89
+8,19,Colorado Not In Basin,2048,148
+8,19,Colorado Not In Basin,2049,197
+8,19,Colorado Not In Basin,2050,157
+8,19,Colorado Not In Basin,2051,193
+8,19,Colorado Not In Basin,2052,120
+8,19,Colorado Not In Basin,2053,166
+8,19,Colorado Not In Basin,2054,56
+8,19,Colorado Not In Basin,2055,120
+8,19,Colorado Not In Basin,2056,216
+8,19,Colorado Not In Basin,2057,83
+8,19,Colorado Not In Basin,2058,382
+8,19,Colorado Not In Basin,2059,109
+8,19,Colorado Not In Basin,2060,203
+8,19,Colorado Not In Basin,2061,206
+8,19,Colorado Not In Basin,2062,174
+8,19,Colorado Not In Basin,2063,234
+8,19,Colorado Not In Basin,2064,137
+8,19,Colorado Not In Basin,2065,215
+8,19,Colorado Not In Basin,2066,74
+8,19,Colorado Not In Basin,2067,79
+8,19,Colorado Not In Basin,2068,170
+8,19,Colorado Not In Basin,2069,79
+8,19,Colorado Not In Basin,2070,183
+8,19,Colorado Not In Basin,2071,65
+8,19,Colorado Not In Basin,2072,196
+8,19,Colorado Not In Basin,2073,120
+8,19,Colorado Not In Basin,2074,107
+8,19,Colorado Not In Basin,2075,188
+8,19,Colorado Not In Basin,2076,80
+8,19,Colorado Not In Basin,2077,400
+8,19,Colorado Not In Basin,2078,185
+8,19,Colorado Not In Basin,2079,114
+8,19,Colorado Not In Basin,2080,352
+32,5,Nevada South,2020,204
+32,5,Nevada South,2021,185
+32,5,Nevada South,2022,89
+32,5,Nevada South,2023,119
+32,5,Nevada South,2024,293
+32,5,Nevada South,2025,87
+32,5,Nevada South,2026,189
+32,5,Nevada South,2027,77
+32,5,Nevada South,2028,94
+32,5,Nevada South,2029,111
+32,5,Nevada South,2030,106
+32,5,Nevada South,2031,68
+32,5,Nevada South,2032,198
+32,5,Nevada South,2033,159
+32,5,Nevada South,2034,103
+32,5,Nevada South,2035,170
+32,5,Nevada South,2036,211
+32,5,Nevada South,2037,156
+32,5,Nevada South,2038,94
+32,5,Nevada South,2039,59
+32,5,Nevada South,2040,212
+32,5,Nevada South,2041,113
+32,5,Nevada South,2042,64
+32,5,Nevada South,2043,400
+32,5,Nevada South,2044,154
+32,5,Nevada South,2045,192
+32,5,Nevada South,2046,133
+32,5,Nevada South,2047,57
+32,5,Nevada South,2048,156
+32,5,Nevada South,2049,181
+32,5,Nevada South,2050,133
+32,5,Nevada South,2051,236
+32,5,Nevada South,2052,149
+32,5,Nevada South,2053,154
+32,5,Nevada South,2054,84
+32,5,Nevada South,2055,160
+32,5,Nevada South,2056,210
+32,5,Nevada South,2057,114
+32,5,Nevada South,2058,404
+32,5,Nevada South,2059,116
+32,5,Nevada South,2060,231
+32,5,Nevada South,2061,241
+32,5,Nevada South,2062,182
+32,5,Nevada South,2063,249
+32,5,Nevada South,2064,142
+32,5,Nevada South,2065,237
+32,5,Nevada South,2066,101
+32,5,Nevada South,2067,81
+32,5,Nevada South,2068,158
+32,5,Nevada South,2069,68
+32,5,Nevada South,2070,218
+32,5,Nevada South,2071,78
+32,5,Nevada South,2072,217
+32,5,Nevada South,2073,104
+32,5,Nevada South,2074,100
+32,5,Nevada South,2075,184
+32,5,Nevada South,2076,121
+32,5,Nevada South,2077,413
+32,5,Nevada South,2078,202
+32,5,Nevada South,2079,69
+32,5,Nevada South,2080,400
+32,6,Nevada In Basin,2020,265
+32,6,Nevada In Basin,2021,229
+32,6,Nevada In Basin,2022,91
+32,6,Nevada In Basin,2023,135
+32,6,Nevada In Basin,2024,335
+32,6,Nevada In Basin,2025,99
+32,6,Nevada In Basin,2026,221
+32,6,Nevada In Basin,2027,93
+32,6,Nevada In Basin,2028,141
+32,6,Nevada In Basin,2029,132
+32,6,Nevada In Basin,2030,101
+32,6,Nevada In Basin,2031,52
+32,6,Nevada In Basin,2032,244
+32,6,Nevada In Basin,2033,187
+32,6,Nevada In Basin,2034,119
+32,6,Nevada In Basin,2035,216
+32,6,Nevada In Basin,2036,253
+32,6,Nevada In Basin,2037,221
+32,6,Nevada In Basin,2038,67
+32,6,Nevada In Basin,2039,95
+32,6,Nevada In Basin,2040,229
+32,6,Nevada In Basin,2041,156
+32,6,Nevada In Basin,2042,99
+32,6,Nevada In Basin,2043,408
+32,6,Nevada In Basin,2044,220
+32,6,Nevada In Basin,2045,168
+32,6,Nevada In Basin,2046,162
+32,6,Nevada In Basin,2047,87
+32,6,Nevada In Basin,2048,182
+32,6,Nevada In Basin,2049,226
+32,6,Nevada In Basin,2050,179
+32,6,Nevada In Basin,2051,271
+32,6,Nevada In Basin,2052,142
+32,6,Nevada In Basin,2053,186
+32,6,Nevada In Basin,2054,98
+32,6,Nevada In Basin,2055,182
+32,6,Nevada In Basin,2056,240
+32,6,Nevada In Basin,2057,119
+32,6,Nevada In Basin,2058,482
+32,6,Nevada In Basin,2059,137
+32,6,Nevada In Basin,2060,264
+32,6,Nevada In Basin,2061,266
+32,6,Nevada In Basin,2062,208
+32,6,Nevada In Basin,2063,258
+32,6,Nevada In Basin,2064,189
+32,6,Nevada In Basin,2065,261
+32,6,Nevada In Basin,2066,103
+32,6,Nevada In Basin,2067,66
+32,6,Nevada In Basin,2068,208
+32,6,Nevada In Basin,2069,80
+32,6,Nevada In Basin,2070,207
+32,6,Nevada In Basin,2071,66
+32,6,Nevada In Basin,2072,235
+32,6,Nevada In Basin,2073,155
+32,6,Nevada In Basin,2074,105
+32,6,Nevada In Basin,2075,177
+32,6,Nevada In Basin,2076,127
+32,6,Nevada In Basin,2077,497
+32,6,Nevada In Basin,2078,214
+32,6,Nevada In Basin,2079,144
+32,6,Nevada In Basin,2080,408
+32,7,Nevada Not In Basin,2020,250
+32,7,Nevada Not In Basin,2021,255
+32,7,Nevada Not In Basin,2022,98
+32,7,Nevada Not In Basin,2023,109
+32,7,Nevada Not In Basin,2024,320
+32,7,Nevada Not In Basin,2025,80
+32,7,Nevada Not In Basin,2026,201
+32,7,Nevada Not In Basin,2027,94
+32,7,Nevada Not In Basin,2028,140
+32,7,Nevada Not In Basin,2029,132
+32,7,Nevada Not In Basin,2030,112
+32,7,Nevada Not In Basin,2031,58
+32,7,Nevada Not In Basin,2032,222
+32,7,Nevada Not In Basin,2033,202
+32,7,Nevada Not In Basin,2034,163
+32,7,Nevada Not In Basin,2035,205
+32,7,Nevada Not In Basin,2036,265
+32,7,Nevada Not In Basin,2037,175
+32,7,Nevada Not In Basin,2038,101
+32,7,Nevada Not In Basin,2039,108
+32,7,Nevada Not In Basin,2040,235
+32,7,Nevada Not In Basin,2041,143
+32,7,Nevada Not In Basin,2042,129
+32,7,Nevada Not In Basin,2043,451
+32,7,Nevada Not In Basin,2044,186
+32,7,Nevada Not In Basin,2045,207
+32,7,Nevada Not In Basin,2046,125
+32,7,Nevada Not In Basin,2047,115
+32,7,Nevada Not In Basin,2048,155
+32,7,Nevada Not In Basin,2049,233
+32,7,Nevada Not In Basin,2050,176
+32,7,Nevada Not In Basin,2051,279
+32,7,Nevada Not In Basin,2052,160
+32,7,Nevada Not In Basin,2053,220
+32,7,Nevada Not In Basin,2054,84
+32,7,Nevada Not In Basin,2055,175
+32,7,Nevada Not In Basin,2056,245
+32,7,Nevada Not In Basin,2057,139
+32,7,Nevada Not In Basin,2058,503
+32,7,Nevada Not In Basin,2059,173
+32,7,Nevada Not In Basin,2060,271
+32,7,Nevada Not In Basin,2061,294
+32,7,Nevada Not In Basin,2062,198
+32,7,Nevada Not In Basin,2063,324
+32,7,Nevada Not In Basin,2064,175
+32,7,Nevada Not In Basin,2065,251
+32,7,Nevada Not In Basin,2066,109
+32,7,Nevada Not In Basin,2067,104
+32,7,Nevada Not In Basin,2068,212
+32,7,Nevada Not In Basin,2069,61
+32,7,Nevada Not In Basin,2070,240
+32,7,Nevada Not In Basin,2071,84
+32,7,Nevada Not In Basin,2072,246
+32,7,Nevada Not In Basin,2073,140
+32,7,Nevada Not In Basin,2074,122
+32,7,Nevada Not In Basin,2075,191
+32,7,Nevada Not In Basin,2076,106
+32,7,Nevada Not In Basin,2077,493
+32,7,Nevada Not In Basin,2078,218
+32,7,Nevada Not In Basin,2079,134
+32,7,Nevada Not In Basin,2080,451
+35,20,New Mexico Central,2020,196
+35,20,New Mexico Central,2021,135
+35,20,New Mexico Central,2022,75
+35,20,New Mexico Central,2023,60
+35,20,New Mexico Central,2024,269
+35,20,New Mexico Central,2025,86
+35,20,New Mexico Central,2026,154
+35,20,New Mexico Central,2027,93
+35,20,New Mexico Central,2028,118
+35,20,New Mexico Central,2029,109
+35,20,New Mexico Central,2030,60
+35,20,New Mexico Central,2031,33
+35,20,New Mexico Central,2032,161
+35,20,New Mexico Central,2033,124
+35,20,New Mexico Central,2034,111
+35,20,New Mexico Central,2035,176
+35,20,New Mexico Central,2036,173
+35,20,New Mexico Central,2037,167
+35,20,New Mexico Central,2038,72
+35,20,New Mexico Central,2039,70
+35,20,New Mexico Central,2040,186
+35,20,New Mexico Central,2041,122
+35,20,New Mexico Central,2042,88
+35,20,New Mexico Central,2043,361
+35,20,New Mexico Central,2044,152
+35,20,New Mexico Central,2045,160
+35,20,New Mexico Central,2046,133
+35,20,New Mexico Central,2047,83
+35,20,New Mexico Central,2048,141
+35,20,New Mexico Central,2049,164
+35,20,New Mexico Central,2050,148
+35,20,New Mexico Central,2051,208
+35,20,New Mexico Central,2052,113
+35,20,New Mexico Central,2053,148
+35,20,New Mexico Central,2054,71
+35,20,New Mexico Central,2055,155
+35,20,New Mexico Central,2056,191
+35,20,New Mexico Central,2057,118
+35,20,New Mexico Central,2058,390
+35,20,New Mexico Central,2059,102
+35,20,New Mexico Central,2060,214
+35,20,New Mexico Central,2061,219
+35,20,New Mexico Central,2062,156
+35,20,New Mexico Central,2063,231
+35,20,New Mexico Central,2064,121
+35,20,New Mexico Central,2065,202
+35,20,New Mexico Central,2066,84
+35,20,New Mexico Central,2067,75
+35,20,New Mexico Central,2068,168
+35,20,New Mexico Central,2069,32
+35,20,New Mexico Central,2070,182
+35,20,New Mexico Central,2071,68
+35,20,New Mexico Central,2072,224
+35,20,New Mexico Central,2073,151
+35,20,New Mexico Central,2074,94
+35,20,New Mexico Central,2075,172
+35,20,New Mexico Central,2076,91
+35,20,New Mexico Central,2077,405
+35,20,New Mexico Central,2078,158
+35,20,New Mexico Central,2079,109
+35,20,New Mexico Central,2080,361
+35,21,New Mexico In Basin,2020,196
+35,21,New Mexico In Basin,2021,135
+35,21,New Mexico In Basin,2022,75
+35,21,New Mexico In Basin,2023,60
+35,21,New Mexico In Basin,2024,269
+35,21,New Mexico In Basin,2025,86
+35,21,New Mexico In Basin,2026,154
+35,21,New Mexico In Basin,2027,93
+35,21,New Mexico In Basin,2028,118
+35,21,New Mexico In Basin,2029,109
+35,21,New Mexico In Basin,2030,60
+35,21,New Mexico In Basin,2031,33
+35,21,New Mexico In Basin,2032,161
+35,21,New Mexico In Basin,2033,124
+35,21,New Mexico In Basin,2034,111
+35,21,New Mexico In Basin,2035,176
+35,21,New Mexico In Basin,2036,173
+35,21,New Mexico In Basin,2037,167
+35,21,New Mexico In Basin,2038,72
+35,21,New Mexico In Basin,2039,70
+35,21,New Mexico In Basin,2040,186
+35,21,New Mexico In Basin,2041,122
+35,21,New Mexico In Basin,2042,88
+35,21,New Mexico In Basin,2043,361
+35,21,New Mexico In Basin,2044,152
+35,21,New Mexico In Basin,2045,160
+35,21,New Mexico In Basin,2046,133
+35,21,New Mexico In Basin,2047,83
+35,21,New Mexico In Basin,2048,141
+35,21,New Mexico In Basin,2049,164
+35,21,New Mexico In Basin,2050,148
+35,21,New Mexico In Basin,2051,208
+35,21,New Mexico In Basin,2052,113
+35,21,New Mexico In Basin,2053,148
+35,21,New Mexico In Basin,2054,71
+35,21,New Mexico In Basin,2055,155
+35,21,New Mexico In Basin,2056,191
+35,21,New Mexico In Basin,2057,118
+35,21,New Mexico In Basin,2058,390
+35,21,New Mexico In Basin,2059,102
+35,21,New Mexico In Basin,2060,214
+35,21,New Mexico In Basin,2061,219
+35,21,New Mexico In Basin,2062,156
+35,21,New Mexico In Basin,2063,231
+35,21,New Mexico In Basin,2064,121
+35,21,New Mexico In Basin,2065,202
+35,21,New Mexico In Basin,2066,84
+35,21,New Mexico In Basin,2067,75
+35,21,New Mexico In Basin,2068,168
+35,21,New Mexico In Basin,2069,32
+35,21,New Mexico In Basin,2070,182
+35,21,New Mexico In Basin,2071,68
+35,21,New Mexico In Basin,2072,224
+35,21,New Mexico In Basin,2073,151
+35,21,New Mexico In Basin,2074,94
+35,21,New Mexico In Basin,2075,172
+35,21,New Mexico In Basin,2076,91
+35,21,New Mexico In Basin,2077,405
+35,21,New Mexico In Basin,2078,158
+35,21,New Mexico In Basin,2079,109
+35,21,New Mexico In Basin,2080,361
+35,22,New Mexico Not In Basin,2020,0
+35,22,New Mexico Not In Basin,2021,0
+35,22,New Mexico Not In Basin,2022,0
+35,22,New Mexico Not In Basin,2023,0
+35,22,New Mexico Not In Basin,2024,0
+35,22,New Mexico Not In Basin,2025,0
+35,22,New Mexico Not In Basin,2026,0
+35,22,New Mexico Not In Basin,2027,0
+35,22,New Mexico Not In Basin,2028,0
+35,22,New Mexico Not In Basin,2029,0
+35,22,New Mexico Not In Basin,2030,0
+35,22,New Mexico Not In Basin,2031,0
+35,22,New Mexico Not In Basin,2032,0
+35,22,New Mexico Not In Basin,2033,0
+35,22,New Mexico Not In Basin,2034,0
+35,22,New Mexico Not In Basin,2035,0
+35,22,New Mexico Not In Basin,2036,0
+35,22,New Mexico Not In Basin,2037,0
+35,22,New Mexico Not In Basin,2038,0
+35,22,New Mexico Not In Basin,2039,0
+35,22,New Mexico Not In Basin,2040,0
+35,22,New Mexico Not In Basin,2041,0
+35,22,New Mexico Not In Basin,2042,0
+35,22,New Mexico Not In Basin,2043,0
+35,22,New Mexico Not In Basin,2044,0
+35,22,New Mexico Not In Basin,2045,0
+35,22,New Mexico Not In Basin,2046,0
+35,22,New Mexico Not In Basin,2047,0
+35,22,New Mexico Not In Basin,2048,0
+35,22,New Mexico Not In Basin,2049,0
+35,22,New Mexico Not In Basin,2050,0
+35,22,New Mexico Not In Basin,2051,0
+35,22,New Mexico Not In Basin,2052,0
+35,22,New Mexico Not In Basin,2053,0
+35,22,New Mexico Not In Basin,2054,0
+35,22,New Mexico Not In Basin,2055,0
+35,22,New Mexico Not In Basin,2056,0
+35,22,New Mexico Not In Basin,2057,0
+35,22,New Mexico Not In Basin,2058,0
+35,22,New Mexico Not In Basin,2059,0
+35,22,New Mexico Not In Basin,2060,0
+35,22,New Mexico Not In Basin,2061,0
+35,22,New Mexico Not In Basin,2062,0
+35,22,New Mexico Not In Basin,2063,0
+35,22,New Mexico Not In Basin,2064,0
+35,22,New Mexico Not In Basin,2065,0
+35,22,New Mexico Not In Basin,2066,0
+35,22,New Mexico Not In Basin,2067,0
+35,22,New Mexico Not In Basin,2068,0
+35,22,New Mexico Not In Basin,2069,0
+35,22,New Mexico Not In Basin,2070,0
+35,22,New Mexico Not In Basin,2071,0
+35,22,New Mexico Not In Basin,2072,0
+35,22,New Mexico Not In Basin,2073,0
+35,22,New Mexico Not In Basin,2074,0
+35,22,New Mexico Not In Basin,2075,0
+35,22,New Mexico Not In Basin,2076,0
+35,22,New Mexico Not In Basin,2077,0
+35,22,New Mexico Not In Basin,2078,0
+35,22,New Mexico Not In Basin,2079,0
+35,22,New Mexico Not In Basin,2080,0
+35,25,New Mexico Gila,2020,256
+35,25,New Mexico Gila,2021,234
+35,25,New Mexico Gila,2022,98
+35,25,New Mexico Gila,2023,141
+35,25,New Mexico Gila,2024,349
+35,25,New Mexico Gila,2025,95
+35,25,New Mexico Gila,2026,195
+35,25,New Mexico Gila,2027,101
+35,25,New Mexico Gila,2028,142
+35,25,New Mexico Gila,2029,96
+35,25,New Mexico Gila,2030,106
+35,25,New Mexico Gila,2031,65
+35,25,New Mexico Gila,2032,231
+35,25,New Mexico Gila,2033,175
+35,25,New Mexico Gila,2034,109
+35,25,New Mexico Gila,2035,248
+35,25,New Mexico Gila,2036,258
+35,25,New Mexico Gila,2037,228
+35,25,New Mexico Gila,2038,68
+35,25,New Mexico Gila,2039,81
+35,25,New Mexico Gila,2040,192
+35,25,New Mexico Gila,2041,164
+35,25,New Mexico Gila,2042,101
+35,25,New Mexico Gila,2043,474
+35,25,New Mexico Gila,2044,239
+35,25,New Mexico Gila,2045,187
+35,25,New Mexico Gila,2046,164
+35,25,New Mexico Gila,2047,83
+35,25,New Mexico Gila,2048,138
+35,25,New Mexico Gila,2049,227
+35,25,New Mexico Gila,2050,222
+35,25,New Mexico Gila,2051,271
+35,25,New Mexico Gila,2052,149
+35,25,New Mexico Gila,2053,253
+35,25,New Mexico Gila,2054,142
+35,25,New Mexico Gila,2055,181
+35,25,New Mexico Gila,2056,256
+35,25,New Mexico Gila,2057,153
+35,25,New Mexico Gila,2058,499
+35,25,New Mexico Gila,2059,143
+35,25,New Mexico Gila,2060,253
+35,25,New Mexico Gila,2061,309
+35,25,New Mexico Gila,2062,217
+35,25,New Mexico Gila,2063,284
+35,25,New Mexico Gila,2064,158
+35,25,New Mexico Gila,2065,292
+35,25,New Mexico Gila,2066,141
+35,25,New Mexico Gila,2067,122
+35,25,New Mexico Gila,2068,210
+35,25,New Mexico Gila,2069,53
+35,25,New Mexico Gila,2070,221
+35,25,New Mexico Gila,2071,83
+35,25,New Mexico Gila,2072,266
+35,25,New Mexico Gila,2073,152
+35,25,New Mexico Gila,2074,126
+35,25,New Mexico Gila,2075,242
+35,25,New Mexico Gila,2076,112
+35,25,New Mexico Gila,2077,513
+35,25,New Mexico Gila,2078,243
+35,25,New Mexico Gila,2079,106
+35,25,New Mexico Gila,2080,474
+49,11,Utah Salt Lake,2020,293
+49,11,Utah Salt Lake,2021,226
+49,11,Utah Salt Lake,2022,88
+49,11,Utah Salt Lake,2023,144
+49,11,Utah Salt Lake,2024,348
+49,11,Utah Salt Lake,2025,85
+49,11,Utah Salt Lake,2026,216
+49,11,Utah Salt Lake,2027,111
+49,11,Utah Salt Lake,2028,185
+49,11,Utah Salt Lake,2029,144
+49,11,Utah Salt Lake,2030,125
+49,11,Utah Salt Lake,2031,63
+49,11,Utah Salt Lake,2032,282
+49,11,Utah Salt Lake,2033,216
+49,11,Utah Salt Lake,2034,161
+49,11,Utah Salt Lake,2035,253
+49,11,Utah Salt Lake,2036,291
+49,11,Utah Salt Lake,2037,239
+49,11,Utah Salt Lake,2038,141
+49,11,Utah Salt Lake,2039,105
+49,11,Utah Salt Lake,2040,279
+49,11,Utah Salt Lake,2041,160
+49,11,Utah Salt Lake,2042,93
+49,11,Utah Salt Lake,2043,492
+49,11,Utah Salt Lake,2044,199
+49,11,Utah Salt Lake,2045,223
+49,11,Utah Salt Lake,2046,211
+49,11,Utah Salt Lake,2047,104
+49,11,Utah Salt Lake,2048,188
+49,11,Utah Salt Lake,2049,264
+49,11,Utah Salt Lake,2050,225
+49,11,Utah Salt Lake,2051,323
+49,11,Utah Salt Lake,2052,173
+49,11,Utah Salt Lake,2053,242
+49,11,Utah Salt Lake,2054,132
+49,11,Utah Salt Lake,2055,206
+49,11,Utah Salt Lake,2056,274
+49,11,Utah Salt Lake,2057,144
+49,11,Utah Salt Lake,2058,553
+49,11,Utah Salt Lake,2059,120
+49,11,Utah Salt Lake,2060,306
+49,11,Utah Salt Lake,2061,352
+49,11,Utah Salt Lake,2062,241
+49,11,Utah Salt Lake,2063,377
+49,11,Utah Salt Lake,2064,222
+49,11,Utah Salt Lake,2065,322
+49,11,Utah Salt Lake,2066,109
+49,11,Utah Salt Lake,2067,105
+49,11,Utah Salt Lake,2068,219
+49,11,Utah Salt Lake,2069,64
+49,11,Utah Salt Lake,2070,292
+49,11,Utah Salt Lake,2071,102
+49,11,Utah Salt Lake,2072,305
+49,11,Utah Salt Lake,2073,165
+49,11,Utah Salt Lake,2074,125
+49,11,Utah Salt Lake,2075,264
+49,11,Utah Salt Lake,2076,137
+49,11,Utah Salt Lake,2077,584
+49,11,Utah Salt Lake,2078,237
+49,11,Utah Salt Lake,2079,117
+49,11,Utah Salt Lake,2080,492
+49,12,Utah In Basin,2020,196
+49,12,Utah In Basin,2021,174
+49,12,Utah In Basin,2022,75
+49,12,Utah In Basin,2023,96
+49,12,Utah In Basin,2024,285
+49,12,Utah In Basin,2025,83
+49,12,Utah In Basin,2026,177
+49,12,Utah In Basin,2027,100
+49,12,Utah In Basin,2028,126
+49,12,Utah In Basin,2029,114
+49,12,Utah In Basin,2030,99
+49,12,Utah In Basin,2031,50
+49,12,Utah In Basin,2032,202
+49,12,Utah In Basin,2033,130
+49,12,Utah In Basin,2034,123
+49,12,Utah In Basin,2035,176
+49,12,Utah In Basin,2036,208
+49,12,Utah In Basin,2037,183
+49,12,Utah In Basin,2038,73
+49,12,Utah In Basin,2039,99
+49,12,Utah In Basin,2040,202
+49,12,Utah In Basin,2041,124
+49,12,Utah In Basin,2042,72
+49,12,Utah In Basin,2043,396
+49,12,Utah In Basin,2044,168
+49,12,Utah In Basin,2045,165
+49,12,Utah In Basin,2046,144
+49,12,Utah In Basin,2047,81
+49,12,Utah In Basin,2048,155
+49,12,Utah In Basin,2049,195
+49,12,Utah In Basin,2050,130
+49,12,Utah In Basin,2051,231
+49,12,Utah In Basin,2052,139
+49,12,Utah In Basin,2053,180
+49,12,Utah In Basin,2054,106
+49,12,Utah In Basin,2055,175
+49,12,Utah In Basin,2056,239
+49,12,Utah In Basin,2057,85
+49,12,Utah In Basin,2058,428
+49,12,Utah In Basin,2059,134
+49,12,Utah In Basin,2060,227
+49,12,Utah In Basin,2061,259
+49,12,Utah In Basin,2062,192
+49,12,Utah In Basin,2063,259
+49,12,Utah In Basin,2064,141
+49,12,Utah In Basin,2065,205
+49,12,Utah In Basin,2066,71
+49,12,Utah In Basin,2067,104
+49,12,Utah In Basin,2068,160
+49,12,Utah In Basin,2069,40
+49,12,Utah In Basin,2070,197
+49,12,Utah In Basin,2071,60
+49,12,Utah In Basin,2072,226
+49,12,Utah In Basin,2073,139
+49,12,Utah In Basin,2074,113
+49,12,Utah In Basin,2075,192
+49,12,Utah In Basin,2076,131
+49,12,Utah In Basin,2077,411
+49,12,Utah In Basin,2078,181
+49,12,Utah In Basin,2079,104
+49,12,Utah In Basin,2080,396
+49,13,Utah Not In Basin,2020,195
+49,13,Utah Not In Basin,2021,180
+49,13,Utah Not In Basin,2022,65
+49,13,Utah Not In Basin,2023,119
+49,13,Utah Not In Basin,2024,289
+49,13,Utah Not In Basin,2025,86
+49,13,Utah Not In Basin,2026,192
+49,13,Utah Not In Basin,2027,86
+49,13,Utah Not In Basin,2028,115
+49,13,Utah Not In Basin,2029,121
+49,13,Utah Not In Basin,2030,86
+49,13,Utah Not In Basin,2031,57
+49,13,Utah Not In Basin,2032,180
+49,13,Utah Not In Basin,2033,148
+49,13,Utah Not In Basin,2034,109
+49,13,Utah Not In Basin,2035,165
+49,13,Utah Not In Basin,2036,238
+49,13,Utah Not In Basin,2037,175
+49,13,Utah Not In Basin,2038,70
+49,13,Utah Not In Basin,2039,91
+49,13,Utah Not In Basin,2040,173
+49,13,Utah Not In Basin,2041,131
+49,13,Utah Not In Basin,2042,81
+49,13,Utah Not In Basin,2043,380
+49,13,Utah Not In Basin,2044,189
+49,13,Utah Not In Basin,2045,152
+49,13,Utah Not In Basin,2046,135
+49,13,Utah Not In Basin,2047,75
+49,13,Utah Not In Basin,2048,159
+49,13,Utah Not In Basin,2049,179
+49,13,Utah Not In Basin,2050,154
+49,13,Utah Not In Basin,2051,217
+49,13,Utah Not In Basin,2052,146
+49,13,Utah Not In Basin,2053,156
+49,13,Utah Not In Basin,2054,83
+49,13,Utah Not In Basin,2055,153
+49,13,Utah Not In Basin,2056,198
+49,13,Utah Not In Basin,2057,120
+49,13,Utah Not In Basin,2058,429
+49,13,Utah Not In Basin,2059,120
+49,13,Utah Not In Basin,2060,211
+49,13,Utah Not In Basin,2061,233
+49,13,Utah Not In Basin,2062,144
+49,13,Utah Not In Basin,2063,268
+49,13,Utah Not In Basin,2064,134
+49,13,Utah Not In Basin,2065,227
+49,13,Utah Not In Basin,2066,102
+49,13,Utah Not In Basin,2067,95
+49,13,Utah Not In Basin,2068,163
+49,13,Utah Not In Basin,2069,59
+49,13,Utah Not In Basin,2070,221
+49,13,Utah Not In Basin,2071,54
+49,13,Utah Not In Basin,2072,209
+49,13,Utah Not In Basin,2073,121
+49,13,Utah Not In Basin,2074,105
+49,13,Utah Not In Basin,2075,199
+49,13,Utah Not In Basin,2076,94
+49,13,Utah Not In Basin,2077,447
+49,13,Utah Not In Basin,2078,189
+49,13,Utah Not In Basin,2079,115
+49,13,Utah Not In Basin,2080,380
+56,14,Wyoming Southwest,2020,220
+56,14,Wyoming Southwest,2021,184
+56,14,Wyoming Southwest,2022,73
+56,14,Wyoming Southwest,2023,123
+56,14,Wyoming Southwest,2024,334
+56,14,Wyoming Southwest,2025,121
+56,14,Wyoming Southwest,2026,231
+56,14,Wyoming Southwest,2027,105
+56,14,Wyoming Southwest,2028,147
+56,14,Wyoming Southwest,2029,131
+56,14,Wyoming Southwest,2030,92
+56,14,Wyoming Southwest,2031,62
+56,14,Wyoming Southwest,2032,255
+56,14,Wyoming Southwest,2033,168
+56,14,Wyoming Southwest,2034,142
+56,14,Wyoming Southwest,2035,195
+56,14,Wyoming Southwest,2036,271
+56,14,Wyoming Southwest,2037,199
+56,14,Wyoming Southwest,2038,79
+56,14,Wyoming Southwest,2039,95
+56,14,Wyoming Southwest,2040,209
+56,14,Wyoming Southwest,2041,151
+56,14,Wyoming Southwest,2042,115
+56,14,Wyoming Southwest,2043,515
+56,14,Wyoming Southwest,2044,216
+56,14,Wyoming Southwest,2045,183
+56,14,Wyoming Southwest,2046,153
+56,14,Wyoming Southwest,2047,117
+56,14,Wyoming Southwest,2048,180
+56,14,Wyoming Southwest,2049,210
+56,14,Wyoming Southwest,2050,213
+56,14,Wyoming Southwest,2051,280
+56,14,Wyoming Southwest,2052,116
+56,14,Wyoming Southwest,2053,209
+56,14,Wyoming Southwest,2054,88
+56,14,Wyoming Southwest,2055,190
+56,14,Wyoming Southwest,2056,227
+56,14,Wyoming Southwest,2057,84
+56,14,Wyoming Southwest,2058,532
+56,14,Wyoming Southwest,2059,157
+56,14,Wyoming Southwest,2060,291
+56,14,Wyoming Southwest,2061,321
+56,14,Wyoming Southwest,2062,224
+56,14,Wyoming Southwest,2063,313
+56,14,Wyoming Southwest,2064,143
+56,14,Wyoming Southwest,2065,300
+56,14,Wyoming Southwest,2066,105
+56,14,Wyoming Southwest,2067,99
+56,14,Wyoming Southwest,2068,181
+56,14,Wyoming Southwest,2069,93
+56,14,Wyoming Southwest,2070,224
+56,14,Wyoming Southwest,2071,93
+56,14,Wyoming Southwest,2072,252
+56,14,Wyoming Southwest,2073,180
+56,14,Wyoming Southwest,2074,114
+56,14,Wyoming Southwest,2075,216
+56,14,Wyoming Southwest,2076,114
+56,14,Wyoming Southwest,2077,499
+56,14,Wyoming Southwest,2078,203
+56,14,Wyoming Southwest,2079,124
+56,14,Wyoming Southwest,2080,515
+56,15,Wyoming In Basin,2020,198
+56,15,Wyoming In Basin,2021,145
+56,15,Wyoming In Basin,2022,71
+56,15,Wyoming In Basin,2023,99
+56,15,Wyoming In Basin,2024,266
+56,15,Wyoming In Basin,2025,88
+56,15,Wyoming In Basin,2026,156
+56,15,Wyoming In Basin,2027,95
+56,15,Wyoming In Basin,2028,115
+56,15,Wyoming In Basin,2029,123
+56,15,Wyoming In Basin,2030,67
+56,15,Wyoming In Basin,2031,30
+56,15,Wyoming In Basin,2032,187
+56,15,Wyoming In Basin,2033,128
+56,15,Wyoming In Basin,2034,107
+56,15,Wyoming In Basin,2035,170
+56,15,Wyoming In Basin,2036,186
+56,15,Wyoming In Basin,2037,186
+56,15,Wyoming In Basin,2038,56
+56,15,Wyoming In Basin,2039,69
+56,15,Wyoming In Basin,2040,175
+56,15,Wyoming In Basin,2041,109
+56,15,Wyoming In Basin,2042,76
+56,15,Wyoming In Basin,2043,347
+56,15,Wyoming In Basin,2044,154
+56,15,Wyoming In Basin,2045,133
+56,15,Wyoming In Basin,2046,119
+56,15,Wyoming In Basin,2047,61
+56,15,Wyoming In Basin,2048,144
+56,15,Wyoming In Basin,2049,167
+56,15,Wyoming In Basin,2050,141
+56,15,Wyoming In Basin,2051,213
+56,15,Wyoming In Basin,2052,107
+56,15,Wyoming In Basin,2053,145
+56,15,Wyoming In Basin,2054,83
+56,15,Wyoming In Basin,2055,127
+56,15,Wyoming In Basin,2056,186
+56,15,Wyoming In Basin,2057,91
+56,15,Wyoming In Basin,2058,351
+56,15,Wyoming In Basin,2059,117
+56,15,Wyoming In Basin,2060,202
+56,15,Wyoming In Basin,2061,207
+56,15,Wyoming In Basin,2062,150
+56,15,Wyoming In Basin,2063,232
+56,15,Wyoming In Basin,2064,141
+56,15,Wyoming In Basin,2065,204
+56,15,Wyoming In Basin,2066,88
+56,15,Wyoming In Basin,2067,74
+56,15,Wyoming In Basin,2068,145
+56,15,Wyoming In Basin,2069,33
+56,15,Wyoming In Basin,2070,184
+56,15,Wyoming In Basin,2071,57
+56,15,Wyoming In Basin,2072,204
+56,15,Wyoming In Basin,2073,114
+56,15,Wyoming In Basin,2074,101
+56,15,Wyoming In Basin,2075,163
+56,15,Wyoming In Basin,2076,91
+56,15,Wyoming In Basin,2077,391
+56,15,Wyoming In Basin,2078,149
+56,15,Wyoming In Basin,2079,93
+56,15,Wyoming In Basin,2080,347
+56,16,Wyoming Not In Basin,2020,219
+56,16,Wyoming Not In Basin,2021,199
+56,16,Wyoming Not In Basin,2022,71
+56,16,Wyoming Not In Basin,2023,136
+56,16,Wyoming Not In Basin,2024,312
+56,16,Wyoming Not In Basin,2025,119
+56,16,Wyoming Not In Basin,2026,218
+56,16,Wyoming Not In Basin,2027,118
+56,16,Wyoming Not In Basin,2028,169
+56,16,Wyoming Not In Basin,2029,147
+56,16,Wyoming Not In Basin,2030,79
+56,16,Wyoming Not In Basin,2031,38
+56,16,Wyoming Not In Basin,2032,221
+56,16,Wyoming Not In Basin,2033,158
+56,16,Wyoming Not In Basin,2034,110
+56,16,Wyoming Not In Basin,2035,230
+56,16,Wyoming Not In Basin,2036,264
+56,16,Wyoming Not In Basin,2037,205
+56,16,Wyoming Not In Basin,2038,110
+56,16,Wyoming Not In Basin,2039,115
+56,16,Wyoming Not In Basin,2040,238
+56,16,Wyoming Not In Basin,2041,155
+56,16,Wyoming Not In Basin,2042,93
+56,16,Wyoming Not In Basin,2043,462
+56,16,Wyoming Not In Basin,2044,200
+56,16,Wyoming Not In Basin,2045,172
+56,16,Wyoming Not In Basin,2046,186
+56,16,Wyoming Not In Basin,2047,99
+56,16,Wyoming Not In Basin,2048,188
+56,16,Wyoming Not In Basin,2049,252
+56,16,Wyoming Not In Basin,2050,160
+56,16,Wyoming Not In Basin,2051,264
+56,16,Wyoming Not In Basin,2052,169
+56,16,Wyoming Not In Basin,2053,224
+56,16,Wyoming Not In Basin,2054,67
+56,16,Wyoming Not In Basin,2055,159
+56,16,Wyoming Not In Basin,2056,245
+56,16,Wyoming Not In Basin,2057,109
+56,16,Wyoming Not In Basin,2058,532
+56,16,Wyoming Not In Basin,2059,177
+56,16,Wyoming Not In Basin,2060,293
+56,16,Wyoming Not In Basin,2061,273
+56,16,Wyoming Not In Basin,2062,192
+56,16,Wyoming Not In Basin,2063,315
+56,16,Wyoming Not In Basin,2064,182
+56,16,Wyoming Not In Basin,2065,262
+56,16,Wyoming Not In Basin,2066,104
+56,16,Wyoming Not In Basin,2067,94
+56,16,Wyoming Not In Basin,2068,216
+56,16,Wyoming Not In Basin,2069,83
+56,16,Wyoming Not In Basin,2070,262
+56,16,Wyoming Not In Basin,2071,63
+56,16,Wyoming Not In Basin,2072,274
+56,16,Wyoming Not In Basin,2073,153
+56,16,Wyoming Not In Basin,2074,130
+56,16,Wyoming Not In Basin,2075,237
+56,16,Wyoming Not In Basin,2076,124
+56,16,Wyoming Not In Basin,2077,526
+56,16,Wyoming Not In Basin,2078,251
+56,16,Wyoming Not In Basin,2079,135
+56,16,Wyoming Not In Basin,2080,462
